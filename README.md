@@ -1,2 +1,3 @@
 # Apple Secret Generator
-Following https://medium.com/tekraze/adding-apple-sign-in-to-spring-boot-app-java-backend-part-e053da331a
+Following https://developer.okta.com/blog/2019/06/04/what-the-heck-is-sign-in-with-apple
+
